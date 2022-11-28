@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://leetcode.com/AsimIqbal/)
 <h1 align="center">Hi 👋, I'm Asim Iqbal</h1>
 <h3 align="center">A Passionate Javascript Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/theintel/08ef8fb89ca9723215fd7cf555296c98/raw/feef4367c64ef24c8c7bd6eefcd55ceb29901b10/wi.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/gist/theintel/08ef8fb89ca9723215fd7cf555296c98/raw/feef4367c64ef24c8c7bd6eefcd55ceb29901b10/wi.gif">
 - 📝 I regularly write articles on [https://medium.com/@asimiqbalsiddiqui]
 
 - 💬 Ask me about **ReactJS**
