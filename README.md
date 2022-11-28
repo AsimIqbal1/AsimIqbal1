@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/gist/theintel/08ef8fb89ca9723215fd7cf555296c98/raw/feef4367c64ef24c8c7bd6eefcd55ceb29901b10/wi.gif">
 - 📝 I regularly write articles on [https://medium.com/@asimiqbalsiddiqui]
 
-- 💬 Ask me about **ReactJS**
+- 💬 Would love to collaborate on **Javascript, Typescript, ReactJS**
 
 - 📫 How to reach me **asimiqbalsiddiqui.1@gmail.com**
 
